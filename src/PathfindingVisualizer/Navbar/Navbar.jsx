@@ -15,7 +15,7 @@ export class Navbar extends Component {
             <button className='first' onClick={() => visualizeDijkstra()}>Visualize Dijkstra's Algorithm</button>
             </div>
             <div>
-            <a href="http://localhost:3000"><button className='first'>Reset Visualizer</button></a>
+            <a href="https://sillu24.github.io/Visualizer/"><button className='first'>Reset Visualizer</button></a>
             </div>
             <div className="Nodes2">
             <div className='UnvisitedNode'>Unvisited Node</div>
